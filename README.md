@@ -1,3 +1,5 @@
-# nikonoll
+# nikonoll.com
 
-personal website
+## Why this page?
+
+Read the about page [here](https://nikoatwork.github.io/about/).
